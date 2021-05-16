@@ -10,5 +10,5 @@ By analyzing the data during seasonally extreme months, the client is able to ma
 
 ![Dec Temps.png](https://github.com/worksm/surfs_up/blob/f35c6c5950ce1276600600bb3ebd66162f5cbe3d/surfs_up2/Resources/Dec%20Temps.png)![June Temps.png](https://github.com/worksm/surfs_up/blob/c9892c0225d52345e4dc64c962a79a66edb6c69a/surfs_up2/Resources/June%20Temps.png)
 
-## Summary: 
+### Summary: 
 This analysis utilized over 2,200 different temperature data points to provide insight into the termperature changes on the island of Oahu, ensuring the client has ample temperature data for review. Prior to making a final decision, I would recommend the client determine how many days in June and December had precipitation, to better understand the viability of a combo surf and ice cream shop year-round. Ice cream is great rain or shine, surfing, maybe not. If the client was able to provide additonal temperature and precipitation parameters, I would recommend a query to determine how many days a year Oahu experiences client acceptable weather. 
